@@ -1,0 +1,5 @@
+# Karnagelized requirements
+# Usage: pip install -r requirements.txt
+
+beautifulsoup4 >= 4.11.1
+pandas >= 1.4.3
