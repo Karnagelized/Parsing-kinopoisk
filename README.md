@@ -58,17 +58,14 @@ xlsx при помощи `pandas`. Попробовать методы опти�
 папке `settings`.
 
 ### 🔗 Ссылки
-
 <div align="center">
-    <a href="https://github.com/Karnagelized" style="text-decoration:none;">
-        <img src="https://github.com/Karnagelized/assets/blob/main/social/Github_icon.png" width="7%" alt="" />
-    </a>
-    <img src="https://github.com/Karnagelized/assets/blob/main/social/logo-transparent.png" width="7%" alt="" />
     <a href="https://t.me/masikantonov" style="text-decoration:none;">
-        <img src="https://github.com/Karnagelized/assets/blob/main/social/Telegram_icon.png" width="7%" alt="" />
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
     </a>
-    <img src="https://github.com/Karnagelized/assets/blob/main/social/logo-transparent.png" width="7%" alt="" />
     <a href="https://vk.com/masikantonov" style="text-decoration:none;">
-        <img src="https://github.com/Karnagelized/assets/blob/main/social/VK_icon.png" width="7%" alt="" />
+        <img src="https://img.shields.io/badge/VKontakte-2CA5E0?style=for-the-badge&color=0077ff&logo=vk&logoColor=white"/>
+    </a>
+    <a href="https://pytime.ru" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/PyTime.ru-ffffff?style=for-the-badge&color=0077c2"/>
     </a>
 </div>
